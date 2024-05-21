@@ -1,0 +1,16 @@
+{
+  "bcv": {
+      "title": "BCV",
+      "price": 36.57,
+      "price_old": 36571700,
+      "type": "monitor",
+      "lastUpdate": "2024-05-21T01:15:15.526Z"
+  },
+  "monitor": {
+      "title": "EnParaleloVzla",
+      "price": 39.76,
+      "price_old": 39760000,
+      "type": "monitor",
+      "lastUpdate": "2024-05-20T12:18:50.357Z"
+  }
+}
